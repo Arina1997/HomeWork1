@@ -1,0 +1,13 @@
+<!--suppress ALL -->
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="abc">ABC :</string>
+    <string name="a_b_c">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</string>
+    <string name="result">Результат:</string>
+    <string name="clean">Очистить</string>
+    <string name="caption_button_string">Вывести все четные буквы ABC из переменной типа String, циклом For</string>
+    <string name="caption_button_list">Вывести все четные буквы ABC при помощи списка</string>
+    <string name="letterByLetter">Побуквенный вывод четных букв ABC при нажатии на кнопку</string>
+    <string name="listof">Вывод четных букв listOf()</string>
+    <string name="mutablelistof">Вывод четных букв mutableListOf()</string>
+</resources>
